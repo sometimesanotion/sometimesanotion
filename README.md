@@ -1,25 +1,11 @@
-## Welcome to my spare-time projects!
+## My design philosophy:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      Efficient routing, computing, GPU management to make the homelab effective
-    </td>
-    <td width="50%" valign="top">
-      Classic code and NLP as structure and harness for local LLMs
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      Local-first language models, merged and finetuned
-    </td>
-    <td width="50%" valign="top">
-      Vector-art games, a sandbox for design
-    </td>
-  </tr>
-</table>
-
----
+* With enough battle-tested reusable code, a compiled language has velocity however low-level.
+* Clear specifications and test-driven development builds reusable code.
+* Clarity while engineering with AI assistance comes from knowing classic design.
+* Engineering with rugged encapsulation and polymorphism at the control pane is worth your time.
+* Vector art is timelessly beautiful and great in games.
+* Games make sharpening practical skills memorably fun!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Local_AI-3F51B5?style=flat-square" alt="Local AI">
