@@ -3,21 +3,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      Edge-first AI inference
       Efficient routing, computing, GPU management to make the homelab effective
     </td>
     <td width="50%" valign="top">
-      Language as a toolchain
       Classic code and NLP as structure and harness for local LLMs
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      Local-first language models
-      Merges and fine-tunes of open models
+      Local-first language models, merged and finetuned
     </td>
     <td width="50%" valign="top">
-      Retro arcade
       Vector-art games, a sandbox for design
     </td>
   </tr>
