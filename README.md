@@ -3,7 +3,7 @@
 * With enough battle-tested reusable code, a compiled language has velocity however low-level.
 * Clear specifications and test-driven development builds reusable code.
 * Clarity while engineering with AI assistance comes from knowing classic design.
-* Engineering with rugged encapsulation and polymorphism at the control pane is worth your time.
+* Design patterns, rugged encapsulation, and polymorphism at the control pane is worth your time.
 * Vector art is timelessly beautiful and great in games.
 * Games make sharpening practical skills memorably fun!
 
