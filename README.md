@@ -1,9 +1,9 @@
 ## My design philosophy:
 
-* With enough battle-tested reusable code, a compiled language has velocity however low-level.
+* Enough battle-tested reusable code can give a low-level language all the velocity you need.
 * Clear specifications and test-driven development builds reusable code.
 * Clarity while engineering with AI assistance comes from knowing classic design.
-* Design patterns, rugged encapsulation, and polymorphism at the control pane is worth your time.
+* Design patterns, rugged encapsulation, and polymorphism at the control pane are worth your time.
 * Vector art is timelessly beautiful and great in games.
 * Games make sharpening practical skills memorably fun!
 
