@@ -1,13 +1,4 @@
-<h1 align="center">Welcome to my spare-time projects.</h1>
-
-<p align="center">
-  I prioritize lean, local-first open source codebases:<br>
-  fast, highly reusable code, local AI as a fallback.
-</p>
-
----
-
-## What I do
+## Welcome to my spare-time projects!
 
 <table>
   <tr>
@@ -45,7 +36,7 @@
 
 ## Tools I reach for
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -53,7 +44,7 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
 </p>
 
----
+## Local Language Models I've Published
 
 <p align="center">
   <a href="https://huggingface.co/sometimesanotion"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
